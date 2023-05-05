@@ -1,1 +1,2 @@
-StoreFront/settings.py
+#StoreFront/settings.py
+*.log
